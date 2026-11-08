@@ -16,7 +16,7 @@ On the iRIC opening screen, select [New Project] (:numref:`01_start`).
    : New Project
 
 In the solver selection window shown in :numref:`02_select`, select
-[NaysMini (a simplified, Python-based version of Nays2DH)] and press [OK].
+[Cabernet2d] and press [OK].
 
    .. _02_select:
 

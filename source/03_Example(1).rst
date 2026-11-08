@@ -15,8 +15,8 @@ iRICのオープニング画面で，[新しいプロジェクト]を選択(:num
 
    : 新しいプロジェクト
 
-:numref:`02_select` ソルバーの選択Windowで[NaysMini(Pythonで書かれたNays2dHの簡易版)]を選択し，
-[OK]OKを押します．
+:numref:`02_select` ソルバーの選択Windowで[Cabernet2d]を選択し，
+[OK]を押します．
 
    .. _02_select:
 
