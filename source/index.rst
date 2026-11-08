@@ -6,7 +6,7 @@
 2次元河川網総合解析ツール[カベルネ2D(Cabernet2D)]のページへようこそ!
 =======================================================================
 
-`English version <en/index.html>`_ (一部の章のみ翻訳済み)
+`English version <en/index.html>`_
 
 .. contents: Contents
    :depth: 4
