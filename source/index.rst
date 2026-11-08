@@ -17,6 +17,10 @@
    02_Overview
    03_Example(1)
    04_Example(2)
+   05_QuasiThreeDimensionalFlow
+   06_MixedGrainSize
+   07_VegetationAndBankCollapse
+   08_MultiChannelNetworks
 
 
 .. figure:: anyshape.gif
