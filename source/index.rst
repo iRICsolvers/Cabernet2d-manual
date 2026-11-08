@@ -22,6 +22,11 @@
    06_MixedGrainSize
    07_VegetationAndBankCollapse
    08_MultiChannelNetworks
+   09_BoundaryConditions
+   10_StructuresAndControlDevices
+   11_UndergroundFloodExchange
+   12_MaterialTransport
+   13_ComputationSettings
 
 
 .. figure:: anyshape.gif
