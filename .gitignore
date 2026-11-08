@@ -1,4 +1,5 @@
 build/
+build_en/
 __pycache__/
 *.pyc
 .doctrees/

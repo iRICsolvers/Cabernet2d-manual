@@ -27,8 +27,16 @@ jobs:
       - name: Install Sphinx
         run: pip install -r requirements.txt
 
-      - name: Build HTML
+      - name: Build Japanese manual
         run: sphinx-build -M html source build
+
+      - name: Build English manual
+        run: sphinx-build -M html source_en build_en
+
+      - name: Merge English manual under /en/
+        run: |
+          mkdir -p build/html/en
+          cp -r build_en/html/. build/html/en/
 
       - uses: actions/upload-pages-artifact@v3
         with:
