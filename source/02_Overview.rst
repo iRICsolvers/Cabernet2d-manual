@@ -37,7 +37,7 @@ Cabernet2Dでは以下の2次元浅水流式を用います．
 ただし, :math:`n` はマニングの粗度係数.  渦動粘性係数は，ゼロ方程式モデルを採用し，下記で表す．
 
 .. math::
-   \nu_t = \frac{\kappa}{6} u_\ast H
+   \nu_t = \frac{\kappa}{6} u_\ast h
 
 ただし，:math:`u_\ast` は摩擦速度 
 

@@ -42,7 +42,7 @@ where :math:`n` is Manning's roughness coefficient. The eddy viscosity
 coefficient is evaluated with a zero-equation model:
 
 .. math::
-   \nu_t = \frac{\kappa}{6} u_\ast H
+   \nu_t = \frac{\kappa}{6} u_\ast h
 
 where :math:`u_\ast` is the friction velocity
 
