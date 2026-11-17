@@ -17,16 +17,19 @@
    01_Introduction
    02_Overview
    03_Example(1)
-   04_Example(2)
    05_QuasiThreeDimensionalFlow
    06_MixedGrainSize
-   07_VegetationAndBankCollapse
    08_MultiChannelNetworks
    09_BoundaryConditions
    10_StructuresAndControlDevices
    11_UndergroundFloodExchange
    12_MaterialTransport
    13_ComputationSettings
+
+.. 植生関連の章を一時的にマスク中（内容は維持、toctreeから除外のみ）:
+   04_Example(2)
+   07_VegetationAndBankCollapse
+   解除するときは上のコメントから元の位置（03_Example(1)の直後／06_MixedGrainSizeの直後）に戻す。
 
 
 .. figure:: anyshape.gif
