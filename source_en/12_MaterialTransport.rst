@@ -94,11 +94,13 @@ range (start, end, and step) over which particles are released, and the
 release location as a range in non-dimensional grid coordinates (Xi:
 streamwise direction, Eta: transverse direction).
 
-Related feature: vegetation block tracking
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. Vegetation-related section temporarily masked (content kept, only removed from the rendered page; unindent to restore):
 
-The "Vegetation Block Tracking" tab provides a feature that tracks lodged
-or washed-out clumps of vegetation (driftwood-like masses) using the same
-approach as GELATO. Combined with the vegetation model
-(:doc:`07_VegetationAndBankCollapse`), this lets you track where
-washed-out trees end up downstream.
+   Related feature: vegetation block tracking
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+   The "Vegetation Block Tracking" tab provides a feature that tracks lodged
+   or washed-out clumps of vegetation (driftwood-like masses) using the same
+   approach as GELATO. Combined with the vegetation model
+   (:doc:`07_VegetationAndBankCollapse`), this lets you track where
+   washed-out trees end up downstream.
